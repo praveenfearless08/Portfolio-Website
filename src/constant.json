@@ -1,0 +1,35 @@
+{
+    "experiences": [
+        {
+            "company": "NewsRabbit",
+            "link": "/",
+            "title": "News Reader Website",
+            "duration": "Aug 2022 ",
+            "desc": [
+                "NewsRabbit is api based web application.",
+                "It provide news of all categories like sports, politics, technology, entertainment etc. ",
+                " Technology used : ReactJs, News API, Bootstrap5."
+            ]
+        },
+        {
+            "company": "YourNote",
+            "link": "/",
+            "title": "A Note Taking App",
+            "duration": "Jan 2021 - Aug 2021",
+            "desc": [
+                "I made this application with great UI.",
+                "t is used to store notes, we can create notes which can be read, update or delete anytime.",
+                "Technology used : ReactJS, NodeJS, ExpressJs , MongoDB."            ]
+        },
+        {
+            "company": "TextMode",
+            "link": "/",
+            "title": "A Text Manipulator",
+            "duration": "Dec 2020",
+            "desc": [
+                "TextMode is text manipulating website .",
+                "It can be used to do multiple task like remove blank spaces,count words,converting text into uppercase or lowercase and many more.",
+                " Technology used : HTML, CSS, ReactJS."            ]
+        }
+    ]
+}
